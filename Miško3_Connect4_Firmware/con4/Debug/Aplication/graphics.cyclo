@@ -1,0 +1,9 @@
+graphics.c:19:13:clear_screen	2
+graphics.c:26:13:render_text	1
+graphics.c:34:6:draw_circle	4
+graphics.c:47:6:render_pieces	7
+graphics.c:83:6:render_empty_board	1
+graphics.c:87:6:render_ai_won	1
+graphics.c:96:6:render_human_won	1
+graphics.c:106:6:render_draw	1
+graphics.c:115:6:render_press_any_button	1

@@ -1,0 +1,5 @@
+../Aplication/ai_model.c:30:12:INIT_AI_Model	32	static
+../Aplication/ai_model.c:50:12:ai_run	16	static
+../Aplication/ai_model.c:59:12:choose_highest_node	32	static
+../Aplication/ai_model.c:82:6:MX_X_CUBE_AI_Init	8	static
+../Aplication/ai_model.c:86:5:get_action	24	static

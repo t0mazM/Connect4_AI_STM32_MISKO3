@@ -1,0 +1,11 @@
+../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_gpio.h:813:26:LL_GPIO_IsInputPinSet	16	static
+../system/joystick.c:176:6:JOY_init	16	static
+../system/joystick.c:292:6:JOY_scan_button	16	static
+../system/joystick.c:329:25:JOY_get_pressed_button	16	static
+../system/joystick.c:367:9:JOY_is_button_state_pressed	4	static
+../system/joystick.c:386:6:JOY_flush	8	static
+../system/joystick.c:409:6:JOY_calibrate	16	static
+../system/joystick.c:502:9:JOY_get_axis_position	24	static
+../system/joystick.c:567:6:JOY_SCI_send_status	8	static
+../system/joystick.c:600:6:JOY_button_demo	16	static
+../system/joystick.c:651:6:JOY_LED_demo	24	static

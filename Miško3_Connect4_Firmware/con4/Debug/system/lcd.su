@@ -1,0 +1,9 @@
+../system/lcd.c:53:13:LCD_IO_Init	8	static
+../system/lcd.c:73:6:LCD_FillRect	32	static
+../system/lcd.c:98:6:LCD_Init	8	static
+../system/lcd.c:127:6:LCD_ClearScreen	24	static
+../system/lcd.c:142:6:LCD_demo_simple	16	static
+../system/lcd.c:179:6:UserPixelSetFunction	24	static
+../system/lcd.c:187:11:_HW_FillFrame_	40	static
+../system/lcd.c:200:6:LCD_uGUI_init	16	static
+../system/lcd.c:224:6:LCD_uGUI_demo_Misko3	16	static

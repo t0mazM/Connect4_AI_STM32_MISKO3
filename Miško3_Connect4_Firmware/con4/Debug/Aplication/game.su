@@ -1,0 +1,10 @@
+../Aplication/game.c:26:6:reset_board	16	static
+../Aplication/game.c:35:6:printf_render	16	static
+../Aplication/game.c:53:5:check_if_valid	16	static
+../Aplication/game.c:58:5:make_move	24	static
+../Aplication/game.c:73:5:subtract_move	24	static
+../Aplication/game.c:91:5:got_human_move	24	static
+../Aplication/game.c:139:6:delete_pre_move	16	static
+../Aplication/game.c:150:5:check_win	48	static
+../Aplication/game.c:203:5:check_draw	16	static
+../Aplication/game.c:214:5:get_state	40	static

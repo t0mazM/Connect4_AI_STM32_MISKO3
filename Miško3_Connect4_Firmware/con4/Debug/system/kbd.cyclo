@@ -1,0 +1,9 @@
+stm32g4xx_ll_gpio.h:813:26:LL_GPIO_IsInputPinSet	2
+kbd.c:151:6:KBD_init	2
+kbd.c:230:6:KBD_scan	4
+kbd.c:284:16:KBD_get_pressed_button	2
+kbd.c:354:9:KBD_is_button_state_pressed	2
+kbd.c:384:6:KBD_flush	1
+kbd.c:393:9:KBD_any_button_been_pressed	1
+kbd.c:411:6:KBD_demo	9
+kbd.c:509:6:KBD_demo_toggle_LEDs_if_buttons_pressed	8

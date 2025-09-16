@@ -1,0 +1,9 @@
+../Aplication/graphics.c:19:13:clear_screen	24	static
+../Aplication/graphics.c:26:13:render_text	24	static
+../Aplication/graphics.c:34:6:draw_circle	32	static
+../Aplication/graphics.c:47:6:render_pieces	40	static
+../Aplication/graphics.c:83:6:render_empty_board	8	static
+../Aplication/graphics.c:87:6:render_ai_won	16	static
+../Aplication/graphics.c:96:6:render_human_won	16	static
+../Aplication/graphics.c:106:6:render_draw	16	static
+../Aplication/graphics.c:115:6:render_press_any_button	16	static

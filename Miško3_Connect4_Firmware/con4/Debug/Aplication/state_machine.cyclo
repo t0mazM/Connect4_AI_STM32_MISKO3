@@ -1,0 +1,5 @@
+state_machine.c:52:12:check_update_game_result	4
+state_machine.c:66:6:Game	8
+state_machine.c:96:12:Intro	1
+state_machine.c:104:12:GamePlay	7
+state_machine.c:150:12:GameOver	14

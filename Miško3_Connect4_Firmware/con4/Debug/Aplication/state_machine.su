@@ -1,0 +1,5 @@
+../Aplication/state_machine.c:52:12:check_update_game_result	16	static
+../Aplication/state_machine.c:66:6:Game	8	static
+../Aplication/state_machine.c:96:12:Intro	8	static
+../Aplication/state_machine.c:104:12:GamePlay	176	static
+../Aplication/state_machine.c:150:12:GameOver	24	static

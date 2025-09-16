@@ -1,0 +1,10 @@
+game.c:26:6:reset_board	3
+game.c:35:6:printf_render	4
+game.c:53:5:check_if_valid	1
+game.c:58:5:make_move	4
+game.c:73:5:subtract_move	4
+game.c:91:5:got_human_move	9
+game.c:139:6:delete_pre_move	4
+game.c:150:5:check_win	25
+game.c:203:5:check_draw	3
+game.c:214:5:get_state	11

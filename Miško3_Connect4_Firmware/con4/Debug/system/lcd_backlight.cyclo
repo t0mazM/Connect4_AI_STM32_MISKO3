@@ -1,0 +1,10 @@
+stm32g4xx_ll_tim.h:2013:22:LL_TIM_EnableCounter	1
+stm32g4xx_ll_tim.h:2583:22:LL_TIM_CC_EnableChannel	1
+stm32g4xx_ll_tim.h:3196:22:LL_TIM_OC_SetCompareCH1	1
+stm32g4xx_ll_tim.h:3297:26:LL_TIM_OC_GetCompareCH1	1
+lcd_backlight.c:99:6:LCD_BKLT_init	1
+lcd_backlight.c:170:6:LCD_BKLT_set_brightness	1
+lcd_backlight.c:190:9:LCD_BKLT_get_brightness	1
+lcd_backlight.c:208:6:LCD_BKLT_on	1
+lcd_backlight.c:215:6:LCD_BKLT_off	1
+lcd_backlight.c:234:6:LCD_BKLT_demo	3

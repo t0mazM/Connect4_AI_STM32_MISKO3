@@ -1,0 +1,15 @@
+stm32g4xx_ll_gpio.h:865:26:LL_GPIO_IsOutputPinSet	2
+stm32g4xx_ll_gpio.h:894:22:LL_GPIO_SetOutputPin	1
+stm32g4xx_ll_gpio.h:923:22:LL_GPIO_ResetOutputPin	1
+stm32g4xx_ll_gpio.h:952:22:LL_GPIO_TogglePin	1
+LED.c:114:6:LED_init	1
+LED.c:195:6:LED_on	1
+LED.c:224:6:LED_off	1
+LED.c:235:6:LED_toggle	1
+LED.c:245:6:LED_set	2
+LED.c:284:6:LEDs_on	3
+LED.c:315:6:LEDs_off	3
+LED.c:355:6:LEDs_write	3
+LED.c:397:9:LED_is_on	1
+LED.c:406:9:LEDs_read	3
+LED.c:435:6:LED_demo	1
