@@ -35,7 +35,12 @@ If model_name is left blank or None, a new untrained model will be used.
 
 Playing the Game
 
-In run_model.py or your main script (CON4_AI.py), the code is set up to first play a game against the AI:
+To play a game call:
+```python
+    game = Connect4()
+    agent = Agent(model_name="ai_model.pth")
+    play_against(agent, game)
+```
 
 1. The board will be displayed in the console
 2. Human moves are entered by typing a column number (0–6) and pressing Enter
@@ -51,9 +56,11 @@ Training the Model
 
 To train the model, call:
 
-from run_model import run_model
+```python
+game = Connect4()
+agent = Agent(model_name="ai_model.pth")
 run_model(agent, game, num_episodes=1000)
-
+```
 This will simulate games and train the neural network using stored experiences.
 
 ---
@@ -61,9 +68,9 @@ This will simulate games and train the neural network using stored experiences.
 Saving the Model for Deployment
 
 After training, the model can be exported in ONNX format for embedded deployment:
-
+```python
 agent.save_model_C()
-
+```
 This will create a file ai_model.onnx that can be used on your STM32 development board or other platforms that support ONNX.
 
 ---
