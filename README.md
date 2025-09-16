@@ -2,6 +2,8 @@
 
 This repository contains a Connect4 game project where you can play against an AI model. The AI is trained in Python and deployed on the **MIŠKO3** development board (STM32G474).
 
+<img src="media/connect4_game.jpg" alt="connect4_game" width="300"/>
+
 ---
 
 ## Table of Contents
@@ -52,11 +54,14 @@ Each folder has its own README.md with more details about its usage and setup.
 - **Human Player:** Red pieces  
 
 Depending on the game outcome, different end screens are displayed:  
-- AI Wins  
+- AI Wins 
+<img src="media/ai_wins.jpg" alt="ai_wins" width="300"/>
 - Human Wins  
+<img src="media/human_wins.jpg" alt="human_wins" width="300"/>
 - Draw  
+<img src="media/draw.png" alt="draw" width="300"/>
 
-*(Insert screenshots for each screen here)*
+
 
 ---
 
