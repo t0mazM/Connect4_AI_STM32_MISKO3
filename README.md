@@ -55,9 +55,9 @@ Each folder has its own README.md with more details about its usage and setup.
 
 Depending on the game outcome, different end screens are displayed:  
 - AI Wins 
-<img src="media/ai_wins.jpg" alt="ai_wins" width="300"/>
+<img src="media/ai_won.jpg" alt="ai_wins" width="300"/>
 - Human Wins  
-<img src="media/human_wins.jpg" alt="human_wins" width="300"/>
+<img src="media/human_won.jpg" alt="human_wins" width="300"/>
 - Draw  
 <img src="media/draw.png" alt="draw" width="300"/>
 
