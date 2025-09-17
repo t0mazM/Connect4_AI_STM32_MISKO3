@@ -53,7 +53,7 @@ Each folder has its own README.md with more details about its usage and setup.
 - **AI Player:** Yellow pieces  
 - **Human Player:** Red pieces  
 
-Depending on the game outcome, different end screens are displayed:  
+Depending on the game outcome, different end screens are displayed (inspired by the Terminator movies :) ) :  
 - AI Wins 
 <img src="media/ai_won.jpg" alt="ai_wins" width="300"/>
 - Human Wins  
